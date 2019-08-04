@@ -1,2 +1,2 @@
 # Project
-Some project
+A few projects I did while studying ios
